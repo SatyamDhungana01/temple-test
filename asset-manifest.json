@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fc95401d.chunk.css",
+    "main.js": "/static/js/main.483ee2bc.chunk.js",
+    "main.js.map": "/static/js/main.483ee2bc.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.45c2e069.js",
+    "runtime-main.js.map": "/static/js/runtime-main.45c2e069.js.map",
+    "static/js/2.2999b484.chunk.js": "/static/js/2.2999b484.chunk.js",
+    "static/js/2.2999b484.chunk.js.map": "/static/js/2.2999b484.chunk.js.map",
+    "static/js/3.e9d3be3c.chunk.js": "/static/js/3.e9d3be3c.chunk.js",
+    "static/js/3.e9d3be3c.chunk.js.map": "/static/js/3.e9d3be3c.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.fc95401d.chunk.css.map": "/static/css/main.fc95401d.chunk.css.map",
+    "static/js/2.2999b484.chunk.js.LICENSE.txt": "/static/js/2.2999b484.chunk.js.LICENSE.txt",
+    "static/media/short-review.css": "/static/media/bg-image.37da3238.png",
+    "static/media/home.css": "/static/media/buddha.b36ba87d.jpg",
+    "static/media/about-us.css": "/static/media/spidy.3437abeb.jpg",
+    "static/media/donationMain.css": "/static/media/donation-img.ff48d9b6.svg",
+    "static/media/about.css": "/static/media/temple-banner.37f0b620.jpg",
+    "static/media/course.css": "/static/media/monk-praying.71280f87.jpg",
+    "static/media/card-cartoon.css": "/static/media/sta-bud.af432380.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.45c2e069.js",
+    "static/js/2.2999b484.chunk.js",
+    "static/css/main.fc95401d.chunk.css",
+    "static/js/main.483ee2bc.chunk.js"
+  ]
+}
